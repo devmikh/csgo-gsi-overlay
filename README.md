@@ -1,4 +1,4 @@
-# CS:GO GSI Overlay
+# CS:GO GSI Overlay (Work in progress)
 
 Overlay for live CS:GO games made with Game State Integration technology. It was created specifically to be used in streaming, as an alternative to an in-game HUD for the viewers.
 
